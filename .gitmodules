@@ -1,0 +1,3 @@
+[submodule "hackage-security"]
+	path = hackage-security
+	url = https://github.com/haskell/hackage-security.git
